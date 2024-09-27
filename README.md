@@ -6,4 +6,4 @@ NOW IM AT THE SECOND LINE
 ALSKJDKLASJDASLKDASLKDAS
 ALSDLASJKDASLK
 
-# Terceiro commit, sem add
+# Terceiro commit, sem adicionar com add
